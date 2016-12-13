@@ -3,7 +3,7 @@ test
 asjdhja 
 aşdmalş
 te
-function(){
+void function(){
 console.log("hello world");
 }
 alksnd
